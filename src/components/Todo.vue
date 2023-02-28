@@ -69,6 +69,7 @@ button {
   margin-right: 10px;
   font-weight: 700;
   outline: none;
+  border:none
 }
 button:active {
   height: 70%;
